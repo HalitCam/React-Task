@@ -1,0 +1,26 @@
+{
+  "name": "learn-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "style": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalitCam/React-Task.git"
+  },
+  "author": "Halit Cam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HalitCam/React-Task/issues"
+  },
+  "homepage": "https://github.com/HalitCam/React-Task#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.10.0"
+  }
+}
